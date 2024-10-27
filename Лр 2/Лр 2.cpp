@@ -16,7 +16,7 @@ int main()
  // Завдання 2
 	cout << "String1" << '\n' << setw(15) << right << "String2" << '\n' << setw(23) << right << "String3" << endl;
 	cout << setw(15) << right << "String1" << '\n' << "String2" << endl;
-	cout << "3";
+	cout << "5";
 	cout << '*';
 	cout << setw(12) << right << "String" << '\n' << '1';
 
