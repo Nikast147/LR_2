@@ -6,7 +6,9 @@ using namespace std;
 
 int main()
 {
-	cout << "New file for deleting";
+	SetConsoleCp(1251);
+	SetConsoleOutputCp(1251); 
+	cout << "Новий файл для видалення";
 
 
 
